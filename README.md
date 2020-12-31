@@ -1,6 +1,6 @@
 ﻿# EEG-based decoding of the spatial focus of auditory attention using CSPs
 
-[![HitCount](http://hits.dwyl.com/ AlexanderBertrandLab /spatial-focus-of-attention-csp.svg)](http://hits.dwyl.com/ AlexanderBertrandLab /spatial-focus-of-attention-csp)
+[![HitCount](http://hits.dwyl.com/AlexanderBertrandLab/spatial-focus-of-attention-csp.svg)](http://hits.dwyl.com/AlexanderBertrandLab/spatial-focus-of-attention-csp)
 
 ## License
 
